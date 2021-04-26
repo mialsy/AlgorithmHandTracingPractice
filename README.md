@@ -44,10 +44,12 @@ insert this:
 - BCF)D)HAE))F))I)))
 
 ### Given binary tree => serialization
-
+<img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/Screen%20Shot%202021-04-25%20at%208.11.27%20PM.png" width="400" title="binary tree">
 
 ### Given n-nary tree => serialization
-<img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/Screen%20Shot%202021-04-25%20at%208.10.33%20PM.png" width="400" title="n-ary tree">
+<img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/Screen%20Shot%202021-04-25%20at%208.10.33%20PM.png" width="400" title="n-nary tree">
 
 ## Graph
 ### run DFS and BFS on following graphs (traverse the node with smaller alphabetic order) : 
+<img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/Screen%20Shot%202021-04-25%20at%208.10.58%20PM.png" width="400" title="graph">
+
