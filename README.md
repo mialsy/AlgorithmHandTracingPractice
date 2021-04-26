@@ -45,7 +45,9 @@ insert this:
 
 ### Given binary tree => serialization
 
+
 ### Given n-nary tree => serialization
+<img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/Screen%20Shot%202021-04-25%20at%208.10.33%20PM.png" width="400" title="n-ary tree">
 
 ## Graph
 ### run DFS and BFS on following graphs (traverse the node with smaller alphabetic order) : 
