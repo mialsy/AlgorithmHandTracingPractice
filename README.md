@@ -1,7 +1,7 @@
 # AlgorithmHandTracingPractice
 
 ## Apr 25, 2021     
-[Reference solutions🔗](https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/hand_trace_practice_01.pdf) Please let me know if you find a mistake.
+[Reference solutions🔗](https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/hand_trace_practice_01.pdf) Please let me know if you find any mistake.
 
 ### 2-3 tree:
 |insert this: |                	then remove|
@@ -28,6 +28,8 @@ insert this:
 - reward
 
 ## Apr 26, 2021
+[Reference solutions🔗](https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/hand_trace_practice_Apr26.pdf) Please let me know if you find any mistake.
+
 ## B-trees
 ### Insert into tree with degree of 4
 - [19, 4, 11, 16, 21, 26, 13, 0, 1, 2, 20]
