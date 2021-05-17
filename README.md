@@ -59,3 +59,12 @@ insert this:
 #### run DFS and BFS on following graphs (traverse the node with smaller alphabetic order) : 
 <img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/res/Screen%20Shot%202021-04-25%20at%208.10.58%20PM.png" width="400" title="graph">
 
+# For final:
+### Topological Sort
+￼![image](https://user-images.githubusercontent.com/51009396/118569741-66255280-b72f-11eb-85c8-f7343661750f.png)
+
+### Strongly Connected Component
+￼![image](https://user-images.githubusercontent.com/51009396/118569791-7ccba980-b72f-11eb-97d9-44ae736d6259.png)
+
+### MST - show both prim & Kruskal
+￼![image](https://user-images.githubusercontent.com/51009396/118569798-805f3080-b72f-11eb-8d81-3aafa8f9f995.png)
