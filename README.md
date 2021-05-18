@@ -60,8 +60,56 @@ insert this:
 <img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/res/Screen%20Shot%202021-04-25%20at%208.10.58%20PM.png" width="400" title="graph">
 
 # For final:
+
+### Disjoint set - show table:
+<ol>
+<li> 
+  <br>
+  <ul>
+  <li> createSet(10)
+  <li> Union(0, 6)
+  <li> Union(6, 4)
+  <li> Union(9, 5)
+  <li> Union(3, 4)
+  </ul>
+
+<li> 
+   <br>
+  <ul>
+  <li> createSet(8)
+<li> Union(6, 3)
+<li> Union(0, 2)
+<li> Union(7, 6)
+<li> Union(7, 2)
+<li> Union(1, 2)
+   </ul>
+  </ol>
+  
 ### Topological Sort
-￼![image](https://user-images.githubusercontent.com/51009396/118569741-66255280-b72f-11eb-85c8-f7343661750f.png)
+
+Topological Sort - show both with removing edge and the start/finish time method
+- 
+|Course|Prereq|
+|---|---|
+|L101|			   L100|
+|L109| 		   L101, L103|
+| L103| L101|
+| L105 | L106, L104, L102|
+| L102	|  L100|
+| L104 |		   L103, L101|
+
+-
+|Task 			| Need to finish before this task|
+|---|---|
+|BrewCoffee|		BoilWater, GrindCoffee|
+|BoilWater|		FilterWater, HeatStove|
+|Breakfast|		BrewCoffee, MakePancake|
+|MakePancake|	PrepareEgg, HeatStove, FilterWater|
+|GoToWork|		Breakfast, CleanKitchen|
+|CleanKitchen |	PrepareEgg, MakePancake, BrewCoffee|
+
+- ￼![image](https://user-images.githubusercontent.com/51009396/118569741-66255280-b72f-11eb-85c8-f7343661750f.png)
+
 
 ### Strongly Connected Component
 ￼![image](https://user-images.githubusercontent.com/51009396/118569791-7ccba980-b72f-11eb-97d9-44ae736d6259.png)
