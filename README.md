@@ -59,7 +59,11 @@ insert this:
 #### run DFS and BFS on following graphs (traverse the node with smaller alphabetic order) : 
 <img src="https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/res/Screen%20Shot%202021-04-25%20at%208.10.58%20PM.png" width="400" title="graph">
 
-# For final:
+# For final May 18:
+
+[Reference solutions🔗](https://github.com/mialsy/AlgorithmHandTracingPractice/blob/master/sol/Hand_trace_practice_final.pdf)
+
+Note topological sort you may get quite different result based on where you start.
 
 ### Disjoint set - show table:
 <ol>
